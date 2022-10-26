@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WeatherForecasting/static/css/main.62aafcef.css",
+    "main.js": "/WeatherForecasting/static/js/main.96aa5de0.js",
+    "static/media/BinggraeMelona.ttf": "/WeatherForecasting/static/media/BinggraeMelona.1ea454b9d11d5662afc1.ttf",
+    "static/media/BinggraeMelona-Bold.ttf": "/WeatherForecasting/static/media/BinggraeMelona-Bold.38a6a986c5df48842771.ttf",
+    "static/media/12롯데마트행복Medium.ttf": "/WeatherForecasting/static/media/12롯데마트행복Medium.b0a5809b57afc8a14c08.ttf",
+    "static/media/12롯데마트행복Light.ttf": "/WeatherForecasting/static/media/12롯데마트행복Light.1aee081196b92826367a.ttf",
+    "static/media/12롯데마트행복Bold.ttf": "/WeatherForecasting/static/media/12롯데마트행복Bold.e926146632c7fd82f1c0.ttf",
+    "index.html": "/WeatherForecasting/index.html",
+    "main.62aafcef.css.map": "/WeatherForecasting/static/css/main.62aafcef.css.map",
+    "main.96aa5de0.js.map": "/WeatherForecasting/static/js/main.96aa5de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62aafcef.css",
+    "static/js/main.96aa5de0.js"
+  ]
+}
